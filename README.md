@@ -20,6 +20,10 @@ sudo npm install mysql2-promise
 npm install express-async-errors --save
 npm i express jsonwebtoken dotenv
 
+the 2 servers are :
+server.js 
+serverData.js
+
 
 to run the application please go to the requests.rest
 
